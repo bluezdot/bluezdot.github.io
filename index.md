@@ -40,12 +40,14 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 --
 
-.[Pham Thanh Truong].(fb.com/labidien)
+[Pham Thanh Truong](fb.com/labidien)
 
 School : Hanoi University of Science and Technology
 Major  : Data Science & Artificial Intelligence 
 
-----------------------------------------------------------------------------------------------------------------------------------------------  
-Phone:+84 (0)869886357                             Facebook: .[Phạm Thanh Trường].(fb.com/labidien)
+----------------------------
+
+Phone:+84 (0)869886357                             Facebook: [Phạm Thanh Trường](fb.com/labidien)
 Email: thanhtruong27701@gmail.com
-----------------------------------------------------------------------------------------------------------------------------------------------
+
+----------------------------
