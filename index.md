@@ -4,7 +4,7 @@ You can click to this [La](https://www.facebook.com/labidien/) to view my person
 
 This pages is being updated, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild my pages in your site when ever i give a new commitment, from the content in your Markdown files.
 
-### Markdown
+### Truong Pham's Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
@@ -12,14 +12,18 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 Syntax highlighted code block
 
 # Header 1
+
 ## Header 2
-### Header 3
 
-- Bulleted
-- List
+### My subjs in this semester
 
-1. Numbered
-2. List
+`- Introduction to Artificial Intelligent
+- Discrete Mathematics
+- Probability and Statistics
+- Calculus III
+- Fundamentals of Optimization
+- Data Structure and Algorithms`
+- Some others
 
 **Bold** and _Italic_ and `Code` text
 
