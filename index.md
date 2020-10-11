@@ -1,8 +1,8 @@
-## Welcome to GitHub Pages
+## Welcome to Truong Pham Pages !!
 
-You can use the [editor on GitHub](https://github.com/bluezdot/bluezdot.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+You can click to this [La](https://www.facebook.com/labidien/) to view my personal facebook and contact to me.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+This pages is being updated, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild my pages in your site when ever i give a new commitment, from the content in your Markdown files.
 
 ### Markdown
 
