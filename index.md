@@ -12,22 +12,27 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 Syntax highlighted code block
 
 # Header 1
-  ## Header 2
-    ### Header 3
+  ## Favorites
+    ### Reading books
+    ### Watching films
+    ### Playing games
+    ### Running
+    ### Listening to music
+    ### Eatting
 
 # My subjs in this semester
 
 `- Introduction to Artificial Intelligent
-- Discrete Mathematics
-- Probability and Statistics
-- Calculus III
-- Fundamentals of Optimization
-- Data Structure and Algorithms`
-- Some others
+ - Discrete Mathematics
+ - Probability and Statistics
+ - Calculus III
+ - Fundamentals of Optimization
+ - Data Structure and Algorithms`
+ - Some others
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
+[Link](url) and ![Image](v)
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
@@ -48,6 +53,6 @@ Major  : Data Science & Artificial Intelligence
 ----------------------------
 
 Phone:+84 (0)869886357                             Facebook: [Phạm Thanh Trường](fb.com/labidien)
-Email: thanhtruong27701@gmail.com
+Email: thanhtruong27701@gmail.com                  Instagram: [05.03.01](https://www.instagram.com/labidien/)
 
 ----------------------------
