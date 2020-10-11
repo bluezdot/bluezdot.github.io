@@ -32,7 +32,7 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src) - exploring . . .
+[Link](url) and ![Image](/images/a.png) - exploring . . .
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
