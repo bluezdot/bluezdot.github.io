@@ -30,7 +30,7 @@ Syntax highlighted code block
  - Data Structure and Algorithms`
  - Some others
 
-**Bold** and _Italic_ and `Code` text
+**Bold** and _Italic_ and `<Code>` text
 
 [Link](url) and ![Image](/images/a.png) - exploring . . .
 ```
