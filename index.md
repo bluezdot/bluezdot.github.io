@@ -32,7 +32,7 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `<Code>` text
 
-[Link](url) and ![Image](/images/a.png) - exploring . . .
+[Link](url) and ![Image](https://scontent.fhan4-1.fna.fbcdn.net/v/t1.0-9/117715944_1577793652399791_7085251115924451810_n.jpg?_nc_cat=108&_nc_sid=09cbfe&_nc_ohc=KgZE5svMtQEAX91xElt&_nc_ht=scontent.fhan4-1.fna&oh=7257f2cc7aaa93da3c649d011e1476a5&oe=5FA9591F) - exploring . . .
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
